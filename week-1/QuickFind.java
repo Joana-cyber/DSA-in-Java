@@ -1,7 +1,6 @@
 /**
- * Entry point for this project.
- *
  * @author Joana Mamley Teye
+ * 
  * @Date 31/08/2022
  */
 
